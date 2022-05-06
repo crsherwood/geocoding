@@ -5,7 +5,7 @@
 
 * **Example Usage**
   - Have addresses saved in csv file called `addresses.csv` in the same directory as `geocoding.py`.
-  - Save addresses in the format:
+  - Save each address on a single line in the following format (Can be copied directly from google maps):
  
     ```
     directions1, city1, state1, zip1
